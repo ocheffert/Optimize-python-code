@@ -1,0 +1,12 @@
+         20000003 function calls in 4.126 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    2.618    2.618    4.126    4.126 <ipython-input-6-5d7d6d2d8d08>:57(function)
+ 10000000    0.808    0.000    0.808    0.000 {method 'append' of 'list' objects}
+ 10000000    0.699    0.000    0.699    0.000 <ipython-input-6-5d7d6d2d8d08>:60(<lambda>)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+
+
